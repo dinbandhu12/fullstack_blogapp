@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://blog-app-v2.tempacc4050.workers.dev"
